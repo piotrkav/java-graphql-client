@@ -1,0 +1,8 @@
+graphql\core\GraphQLLocation.class
+graphql\core\GraphQLRequest.class
+graphql\core\GraphQLRequest$GraphQLRequestBuilder.class
+graphql\core\GraphQLError.class
+graphql\configuration\GraphQLConfiguration.class
+graphql\core\GraphQLException.class
+graphql\core\GraphQLResponse.class
+graphql\core\GraphQLClient.class
