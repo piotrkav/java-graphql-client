@@ -4,3 +4,11 @@
 ![GitHub](https://img.shields.io/github/license/piotrkav/java-graphql-client)
 
 
+Java graphql client based on spring framework and its RestTemplate to make http calls.
+
+***
+
+##Usage
+TODO
+
+
