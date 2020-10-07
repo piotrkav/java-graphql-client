@@ -8,7 +8,7 @@ Java graphql client based on spring framework and its RestTemplate to make http 
 
 ***
 
-##Usage
+## Usage
 TODO
 
 
