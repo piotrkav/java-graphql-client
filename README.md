@@ -8,6 +8,14 @@ Java graphql client based on spring framework and its RestTemplate to make http 
 ***
 
 ## Usage
-TODO
+
+Maven
+```
+<dependency>
+  <groupId>io.github.piotrkav</groupId>
+  <artifactId>java-graphql-client</artifactId>
+  <version>0.0.1</version>
+</dependency>
+```
 
 
