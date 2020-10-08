@@ -1,6 +1,5 @@
 # java-graphql-client
-
-![Sonatype Nexus (Repository)](https://img.shields.io/nexus/iogithubpiotrkav-1002/io.github.piotrkav/java-graphql-client?server=https%3A%2F%2Foss.sonatype.org)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.piotrkav/java-graphql-client.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.github.piotrkav%22%20AND%20a:%22java-graphql-client%22)
 ![GitHub](https://img.shields.io/github/license/piotrkav/java-graphql-client)
 
 
